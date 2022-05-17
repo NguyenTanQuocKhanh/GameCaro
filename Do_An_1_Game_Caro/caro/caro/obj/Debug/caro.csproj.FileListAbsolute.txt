@@ -1,0 +1,76 @@
+D:\lap trinh huong doi tuong\caro\caro\bin\Debug\caro.exe.config
+D:\lap trinh huong doi tuong\caro\caro\bin\Debug\caro.exe
+D:\lap trinh huong doi tuong\caro\caro\bin\Debug\caro.pdb
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.csprojResolveAssemblyReference.cache
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.frmCoCaro.resources
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.Properties.Resources.resources
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.csproj.GenerateResource.Cache
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.exe
+D:\lap trinh huong doi tuong\caro\caro\obj\Debug\caro.pdb
+C:\Users\Admin\Desktop\caro\caro\caro\bin\Debug\caro.exe.config
+C:\Users\Admin\Desktop\caro\caro\caro\bin\Debug\caro.exe
+C:\Users\Admin\Desktop\caro\caro\caro\bin\Debug\caro.pdb
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.frmCoCaro.resources
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.Properties.Resources.resources
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.exe
+C:\Users\Admin\Desktop\caro\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\caro\bin\Debug\caro.exe.config
+D:\caro\caro\caro\obj\Debug\caro.exe
+D:\caro\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\caro\obj\Debug\caro.csprojResolveAssemblyReference.cache
+D:\caro\caro\caro\obj\Debug\caro.frmCoCaro.resources
+D:\caro\caro\caro\obj\Debug\caro.Properties.Resources.resources
+D:\caro\caro\caro\obj\Debug\caro.csproj.GenerateResource.Cache
+D:\caro\caro\caro\bin\Debug\caro.exe
+D:\caro\caro\caro\bin\Debug\caro.pdb
+C:\Users\Admin\Desktop\caro\caro\caro\caro\bin\Debug\caro.exe.config
+C:\Users\Admin\Desktop\caro\caro\caro\caro\bin\Debug\caro.exe
+C:\Users\Admin\Desktop\caro\caro\caro\caro\bin\Debug\caro.pdb
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.frmCoCaro.resources
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.Properties.Resources.resources
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.exe
+C:\Users\Admin\Desktop\caro\caro\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\caro\caro\bin\Debug\caro.exe.config
+D:\caro\caro\caro\caro\obj\Debug\caro.exe
+D:\caro\caro\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\caro\caro\bin\Debug\caro.exe
+D:\caro\caro\caro\caro\bin\Debug\caro.pdb
+D:\caro\caro\caro\caro\obj\Debug\caro.csprojResolveAssemblyReference.cache
+D:\caro\caro\caro\caro\obj\Debug\caro.frmCoCaro.resources
+D:\caro\caro\caro\caro\obj\Debug\caro.Properties.Resources.resources
+D:\caro\caro\caro\caro\obj\Debug\caro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\bin\Debug\caro.exe.config
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\bin\Debug\caro.exe
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\bin\Debug\caro.pdb
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.frmCoCaro.resources
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.Properties.Resources.resources
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.exe
+C:\Users\Admin\Desktop\caro (2)\caro\caro\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\bin\Debug\caro.exe.config
+D:\caro\caro\obj\Debug\caro.exe
+D:\caro\caro\obj\Debug\caro.pdb
+D:\caro\caro\bin\Debug\caro.exe
+D:\caro\caro\bin\Debug\caro.pdb
+D:\caro\caro\obj\Debug\caro.csprojResolveAssemblyReference.cache
+D:\caro\caro\obj\Debug\caro.frmCoCaro.resources
+D:\caro\caro\obj\Debug\caro.Properties.Resources.resources
+D:\caro\caro\obj\Debug\caro.csproj.GenerateResource.Cache
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\bin\Debug\caro.exe.config
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\bin\Debug\caro.exe
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\bin\Debug\caro.pdb
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.csproj.AssemblyReference.cache
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.frmCoCaro.resources
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.Properties.Resources.resources
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.csproj.GenerateResource.cache
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.csproj.CoreCompileInputs.cache
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.exe
+D:\Nam 5\project_CTDL\CTDLGT-master\caro\caro\obj\Debug\caro.pdb
